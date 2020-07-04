@@ -46,5 +46,5 @@ class instagramPost:
         sleep(2)
 
 
-bot = instagramPost('carocode_', 'Pelusa1488!')
+bot = instagramPost('carocode_', '??!')
 bot.login()
